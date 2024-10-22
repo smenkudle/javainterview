@@ -1,11 +1,12 @@
 public class TripletSum {
+
    //main method
    public static void main(String[] args){
 
       //Declare and initialize the array elements
       int arr[] = {11, 4, 5, 6, 21, 29};
 
-      //a particular number whose triplet meeds to be find out
+      //a particular number whose triplet needs to be find out
       int sum = 37;
 
       // Fix the first element as a[i]
@@ -24,4 +25,5 @@ public class TripletSum {
          }
       }
    }
+
 }
